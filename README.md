@@ -1,7 +1,7 @@
 # Ciclo-Formativo-PretaLab
-Este é um ciclo formativo para mulheres que têm interesse na área de tecnologia/computação e estão comprometidas em aprender e avançar na sua carreira.
+Este é um ciclo formativo para mulheres que têm interesse na área de tecnologia/computação e estão comprometidas em avançar na sua carreira.
 -
-Durante 11 semanas, elas irão aprender sobre assuntos como 
+Durante 11 semanas, elas irão aprender:
 -
 -Design System
 -
@@ -17,6 +17,6 @@ Durante 11 semanas, elas irão aprender sobre assuntos como
 -
 -Implementação do Sistema (Deploy)/ cultura DevOps.
 -
-O ciclo formativo é uma oportunidade para autoconhecimento dentro da área da tecnologia, novas descobertas, novas conexões com outras mulheres negras tecnologista que possibilitam crescimento e parceria, acompanhamento psicopedagógico para contribuir na jornada da segurança na área da tecnologia.
+O ciclo formativo é uma oportunidade para autoconhecimento dentro da área da tecnologia, novas descobertas, novas conexões com outras mulheres negras que possibilitam crescimento e parceria, acompanhamento psicopedagógico para contribuir na jornada da segurança na área da tecnologia.
 -
 ⏳⏳ Duração total das aulas: 44 horas, distribuídas em 11 semanas.
