@@ -1,0 +1,30 @@
+** Desafio individual ** 
+
+* Criei uma pasta em minha máquina local;
+
+* Iniciei o Git bash nesta pasta;
+
+* Efetuei o comando para iniciar o projeto com o "git init";
+
+* Após isso, efetuei o clone do repositório do Preta Lab, utilizando o comando "git clone url";
+
+* Como ao efetuar o clone, eu estava na master, criei uma branch com meu nome,
+utilizando o comando "git checkout - b 'branch'";
+
+* Verifiquei se realmente eu estava efetuando as modificações na branch criada,
+utilizando o comando "git status";
+
+* Foi necessário também adicionar o repositório remote como a origen do projeto,
+utilizando o comando " git remote add url";
+
+* Criei um arquivo .txt na pasta criada para o exercicio;
+
+* Acessei a pasta > Adicionei o arquivo utilizando o comando "git add .";
+
+* Fiz um commit para a alteração, utilizando o comando "git commit -m "comentário"";
+
+* Fiz o Push para o repositório remoto, utilizando o comando "git push url";
+
+* Efetuei o Pull request diretamente no GitHub disponibilizado.
+
+* Alteração da informações para efetuar um Pull Request
